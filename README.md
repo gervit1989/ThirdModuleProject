@@ -1,1 +1,1 @@
-# ThirdModuleProject
+Проект интернет-магазина для JavaRush Python University
